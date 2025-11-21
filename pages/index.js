@@ -1,5 +1,5 @@
 function Home(){
-    return <h3>Oieee, eu te amo Kenzo Raphael, meu príncipe lindo.</h3>
+    return <h1>Oieee, eu te amo Kenzo Raphael, meu príncipe lindo.</h1>
 }
 
 export default Home;
